@@ -5,7 +5,7 @@ node_js:
 before_script:
   - npm install
  
- script:
+script:
   - echo "Antes de la construccion"
   - npm build
   
